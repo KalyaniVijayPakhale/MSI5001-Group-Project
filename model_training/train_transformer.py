@@ -248,7 +248,7 @@ trainer.train()
 # 12. Evaluate
 # ------------------------------
 eval_results = trainer.evaluate()
-print("\n📊 Evaluation Results:")
+print("\n Evaluation Results:")
 for k, v in eval_results.items():
     print(f"{k}: {v:.4f}")
 
