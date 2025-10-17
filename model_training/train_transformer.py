@@ -267,5 +267,5 @@ predictions = trainer.predict(test_dataset)
 predicted_labels = predictions.predictions.argmax(axis=1)
 
 test_df['predicted_label'] = predicted_labels
-test_df.to_csv('test_predictions.csv', index=False)
+test_df.to_csv('result\test_predictions.csv', index=False)
 print("Predictions saved to 'test_predictions.csv'")
