@@ -141,3 +141,10 @@ The central dogma of molecular biology states that DNA is transcribed into RNA, 
     - consider positional embeddings 
     - various feature extraction techniques
     - class balancing methods during training
+
+### Discussion Log 
+https://nusu-my.sharepoint.com/:w:/g/personal/e1547275_u_nus_edu/EWmCTu6iobFGimlyAQnsc_YBB7S_OrzRX9Ci0W5InK99hQ?e=4kLWuh&wdLOR=c7CF2249F-58EB-D24E-AAD1-39F06530741A
+
+### Task Log 
+
+https://docs.google.com/spreadsheets/d/1gJIvu2DvrXFsjGmIdYrMsbvnxmhqy9BL6utM3lQ6Ae4/edit?gid=0#gid=0
